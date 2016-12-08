@@ -80,6 +80,7 @@ table(preds)
 
 #now checking the accuracy
 auc(preds, test$Y)
+#0.475
 
 "
 by selectign the top 20 features from the data set
